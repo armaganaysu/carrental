@@ -1,0 +1,21 @@
+addOffice;02324449988;21 Sokak No:50;Izmir
+addOffice;02325678990;56 Sokak No:60;Ankara
+listOffice
+addEmployee;Burcu;Fidan;Female;29.5.1988;1
+addEmployee;Adem;Deniz;Male;15.6.1980;1
+addEmployee;Bahar;Korkmaz;Female;28.11.1978;2
+listEmployee;1
+listEmployee;2
+addCar;Audi;Q7;economy;0;1
+addCar;BMW;X3;sports;0;1
+addCar;Mercedes;CLA;luxury;0;1
+addCar;Renault;Clio;economy;0;2
+addCar;Honda;Civic;sports;0;2
+listCar;1
+listCar;2
+addCustomer;Ilker;Yildirim
+addCustomer;Sibel;Ay
+addCustomer;Gulay;Uz
+addCustomer;Murat;Kaya
+addCustomer;Cem;Bilir
+listCustomer

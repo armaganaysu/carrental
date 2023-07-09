@@ -1,0 +1,8 @@
+addCarRequest;1;3;*;*;economy;1.1.2021;4.1.2021
+addCarRequest;1;5;*;*;sports;1.1.2021;3.1.2021
+addCarRequest;1;5;*;*;luxury;2.1.2021;4.1.2021
+addCarRequest;1;2;*;*;luxury;1.1.2021;8.1.2021
+addCarRequest;2;2;Honda;*;*;1.1.2021;3.1.2021
+addCarRequest;2;2;*;*;sports;1.1.2021;1.1.2021
+addCarRequest;2;2;Ferrari;*;*;1.1.2021;1.1.2021
+listCarRequest
